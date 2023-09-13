@@ -10,9 +10,7 @@ Una vez que Node.js y npm estén instalados, sigue estos pasos para instalar las
 
 1. Abre tu terminal o línea de comandos.
 
-2. Navega al directorio raíz de tu proyecto de React donde se encuentra el archivo `package.json`. Si aún no tienes un proyecto de React, puedes crear uno utilizando el comando `npx create-react-app nombre-de-tu-proyecto` (reemplaza "nombre-de-tu-proyecto" con el nombre que desees).
-
-3. Ejecuta el siguiente comando para instalar todas las dependencias definidas en el archivo `package.json`:
+2. Ejecuta el siguiente comando para instalar todas las dependencias definidas en el archivo `package.json`:
 
 ```bash
 npm install
