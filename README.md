@@ -1,6 +1,6 @@
 # Instalación y Ejecución de un Proyecto de React JS
 
-Este archivo Markdown te guiará a través de los pasos necesarios para instalar las dependencias y ejecutar un proyecto de desarrollo en React JS versión 18.2.0.
+Este archivo proporcionará de los pasos necesarios para instalar las dependencias y ejecutar un proyecto de React JS versión 18.2.0.
 
 ## Instalación de Dependencias
 
@@ -25,7 +25,7 @@ Ejecuta el siguiente comando:
 ```bash
 npm run dev
 ```
-Este comando iniciará un servidor de desarrollo y construirá tu aplicación de React. Después de que la construcción se complete, deberías ver un mensaje en la terminal que indica que el servidor está funcionando y la dirección local en la que puedes acceder a tu aplicación.
+Este comando iniciará un servidor de desarrollo y construirá tu aplicación de React.
 
 ## Acceso a la Aplicación
 
