@@ -19,9 +19,6 @@ npm install
 Este comando descargará e instalará todas las bibliotecas y paquetes necesarios para tu proyecto de React.
 
 ## Ejecución del Proyecto
-Una vez que todas las dependencias se hayan instalado correctamente, estás listo para ejecutar tu proyecto de React. Para hacerlo, sigue estos pasos:
-
-Asegúrate de que estás en el directorio raíz de tu proyecto en la terminal.
 
 Ejecuta el siguiente comando:	
 
