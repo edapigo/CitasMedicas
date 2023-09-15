@@ -29,4 +29,4 @@ Este comando iniciará un servidor de desarrollo y construirá tu aplicación de
 
 ## Acceso a la Aplicación
 
-El servidor se ejecutará en [http://127.0.0.1:5173/](http://127.0.0.1:5173/) por defecto.
+El servidor se ejecutará en [http://localhost:5173/](http://localhost:5173/) por defecto.
